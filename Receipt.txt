@@ -1,0 +1,21 @@
+          Restaurant El Ayachi
+------------------------------------------------
+cashier:                      Montassar Chihi     
+------------------------------------------------
+Customer:                     Leoniel Messi       
+------------------------------------------------
+date:                         2022-01-07          
+------------------------------------------------
+Pizza special                       10.0
+Pizza Neptune                       12.0
+Tabouna escalope                     5.0
+Kafteji                             12.0
+Gateau Chocolat                      8.5
+Water                                2.0
+------------------------------------------------
+Total:                              49.5
+------------------------------------------------
+Adress: Earth, milky Way                
+Visit Us again                          
+Visit Our Facebook page @RestoElAyechi  
+Email: RestauElAyechi@business.tn       
